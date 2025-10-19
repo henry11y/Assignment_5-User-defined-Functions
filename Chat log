@@ -1,0 +1,3 @@
+Write a Python function that reads a CSV file (no pandas allowed) 
+and determines the highest and lowest values in the column "loan_amnt". 
+Use only built-in functions like min(), max(), sum(), len(), and csv. 
